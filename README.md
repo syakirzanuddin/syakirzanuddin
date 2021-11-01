@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile and Web application development
 - 🌱 I’m currently learning Java, C++ and Python
 - 💞️ I’m looking to collaborate on Mobile and Web development
-- 📫 How to reach me syakirzanuddin98@gmail.com
+- 📫 How to reach me linkedin.com/in/muhammad-syakir
 
 <!---
 syakirzanuddin/syakirzanuddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
